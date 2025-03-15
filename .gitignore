@@ -1,0 +1,4 @@
+# Mengabaikan folder dan file yang tidak diperlukan
+.idea/
+out/
+*.iml
