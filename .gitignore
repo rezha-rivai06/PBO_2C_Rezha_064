@@ -1,0 +1,12 @@
+# Mengabaikan semua file
+*
+
+# Mengecualikan folder src di setiap direktori yang spesifik
+!codelab/Modul1/src/
+!codelab/Modul2/src/
+!codelab/Modul3/src/
+!tugas/TUGAS_PBO/login/src/
+
+# Mengabaikan subfolder atau file lainnya dalam folder codelab dan tugas
+codelab/*
+tugas/*
